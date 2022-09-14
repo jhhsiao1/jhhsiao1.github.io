@@ -2,3 +2,7 @@ body {
     font-family: Ubuntu;
     text-align: center;
 }
+
+h1 {
+  font-weight: normal;
+}
